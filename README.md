@@ -16,6 +16,7 @@ The script is designed to handle relationships between entities seamlessly.
 * Database Management System: PostgreSQL, managed through pgAdmin, serves as the backend for storing and retrieving data.
 
 **How to Use:**
+
 Execute the provided SQL scripts in a PostgreSQL environment to set up the necessary tables and relationships.
 Ensure pgAdmin is configured for effective management of the database.
 Data Population:
