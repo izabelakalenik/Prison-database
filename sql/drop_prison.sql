@@ -1,6 +1,7 @@
+-- Drop tables
+DROP TABLE IF EXISTS public."Stay";
 DROP TABLE IF EXISTS public."Furlough";
 DROP TABLE IF EXISTS public."Examination";
-DROP TABLE IF EXISTS public."ExaminationType";
 DROP TABLE IF EXISTS public."Visit";
 DROP TABLE IF EXISTS public."Sentence";
 DROP TABLE IF EXISTS public."Prisoner";
@@ -15,10 +16,11 @@ DROP TABLE IF EXISTS public."AdministrativeEmployee";
 DROP TABLE IF EXISTS public."Prison";
 DROP TABLE IF EXISTS public."Doctor";
 DROP TABLE IF EXISTS public."ContactPerson";
-DROP TABLE IF EXISTS public."CellType";
+DROP TABLE IF EXISTS public."ExaminationType";
 DROP TABLE IF EXISTS public."Specialization";
 DROP TABLE IF EXISTS public."Rank";
+DROP TABLE IF EXISTS public."CellType";
 
--- Drop types
+-- Drop custom types
 DROP TYPE IF EXISTS public.blood_group;
 DROP TYPE IF EXISTS public.sex;
