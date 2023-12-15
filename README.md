@@ -19,11 +19,9 @@ The script is designed to handle relationships between entities seamlessly.
 
 Execute the provided SQL scripts in a PostgreSQL environment to set up the necessary tables and relationships.
 Ensure pgAdmin is configured for effective management of the database.
-Data Population:
 
 Run the Python script to populate the database with realistic and randomized data.
 Note: Some tables may require manual data entry due to the nature of the information they hold.
-Exploration and Management:
 
 Leverage pgAdmin to explore the data, manage relationships, and perform queries on the database.
 The system is designed to handle associations between different entities, ensuring comprehensive data management.
