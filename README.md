@@ -1,6 +1,6 @@
 Project for Database design course - 5th semester. It was done in a group of 3 people.
 
-This project involves the creation of a relational database for an internal network system of Prisons. 
+This project involves the creation of a relational database for polish internal network system of Prisons. 
 The facilities cater to both male and female inmates. The primary goal of the database is to facilitate 
 the management of data for individuals currently residing and working within these institutions.
 
