@@ -10,7 +10,7 @@ In certain tables records may be added manually, and their quantity may vary.
 With each script execution, diverse data sets are generated. 
 The script is designed to handle relationships between entities seamlessly.
 
-**Technologies:**
+**Technologies used:**
 * Python Scripting: The database is populated using a Python script.
 * Libraries: The project utilizes the Pony ORM library for efficient object-relational mapping and the Faker library for generating realistic and randomized data.
 * Database Management System: PostgreSQL, managed through pgAdmin, serves as the backend for storing and retrieving data.
