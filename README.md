@@ -1,3 +1,4 @@
+# Prison database
 Project for Database design course - 5th semester. It was done in a group of 3 people.
 
 This project involves the creation of a relational database for polish internal network system of Prisons. 
